@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20240713</CreaDate><CreaTime>17223000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="e:\software\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20240713" Time="172230">RasterCalculator Con(IsNull("loc_maxlcc.tif"),0,"loc_maxlcc.tif") W:\PA_LCC\Globe_LCCLAI\Data_Matlab_read\loc_maxlcc2.tif</Process></lineage></DataProperties></Esri></metadata>
